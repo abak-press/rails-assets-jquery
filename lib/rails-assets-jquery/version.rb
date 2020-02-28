@@ -1,3 +1,3 @@
 module RailsAssetsJquery
-  VERSION = "2.1.4"
+  VERSION = '2.1.5'.freeze
 end
